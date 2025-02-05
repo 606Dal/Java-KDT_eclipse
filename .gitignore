@@ -3,6 +3,7 @@
 
 Servers/
 day2/
+todo/src/main/java/org/zerock/dao/ConnectionUtil.java
 
 ### Eclipse ###
 .metadata
